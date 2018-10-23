@@ -1,5 +1,5 @@
-Chapter I : The New Human Agenda
-
+##Chapter I : The New Human Agenda
+#Page1
 At the dawn of the third millennium, humanity wakes up, stretching its limbs and rubbing its eyes.
 ในตอนเช้าตรู่ของสหัสวรรษที่ 3 มนุษยชาติตื่นขึ้น เหยียดแขนเหยียดขา และถูดวงตาของเขา
 Remnants of some awful nightmare are still drifting across its mind.
@@ -17,3 +17,18 @@ The same three problems preoccupied the people of twentieth-century China, of me
 Famine, plague and war were always at the top of the list.
 For generation after generation humans have prayed to every god, angel and saint, and have invented countless tools, institutions and social systems - but they continued to die in their millions from starvation, epidemics and violence.
 Many thinkers and prophets concluded that famine, plague and war must be an integral part of God's cosmic plan or of our imperfect nature, and nothing short of the end of time would free us from them.
+#Page2
+Yet at the dawn of the third millenium, humanity wakes up to an amazing realisation.
+Most people rarely think about it, but in the last few decades we have managed to rein in famine, plague and war.
+Of course, these problems have not been completely solved, but they have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges.
+We don't need to pray to any god or saint to rescue us from them.
+We know quite well what needs to be done in order to prevent famine, plague and war - and we usually succeed in doing it.
+True, there are still notable failures; but when faced with such failures we no longer shrug our shoulders and say,'Well, that's the way things work in our imperfect world' or 'God's will be done'.
+Rather, when famine, plague or war break out of our control, we feel that somebody must have screwed up, we set up a commission of inquiry, and promise ourselves that next time we'll do better.
+And it actually works.
+Such calamities indeed happen less and less often.
+For the first time in history, more people die today from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit cuicide than are killed by soldiers, terrorists and criminals combined.
+In the early twenty-first century, the average human is far more likely to die from bingeing at McDonald's than from drought, Ebola or an al-Qaeda attack.
+Hence even though presidents, CEOs and generals still have their daily schedules full of economic croses and military conflicts, on the cosmic scale of history humankind can lift its eyes up and start looking towards new horizons.
+If we are indeed bringing famine, plague and war under control, what will replace them at the top of the human agenda?
+Like firefighters in a world without fire, so humankind in the twenty-first century needs to ask itself an unprecedented question; what are we going to do with ourselves?
