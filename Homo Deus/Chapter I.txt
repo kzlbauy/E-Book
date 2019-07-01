@@ -1,4 +1,5 @@
 ##Chapter I : The New Human Agenda
+
 #Page1
 At the dawn of the third millennium, humanity wakes up, stretching its limbs and rubbing its eyes.
 ในตอนเช้าตรู่ของสหัสวรรษที่ 3 มนุษยชาติตื่นขึ้น เหยียดแขนเหยียดขา และถูดวงตาของเขา
@@ -22,13 +23,24 @@ For generation after generation humans have prayed to every god, angel and saint
 จากรุ่นสู่รุ่น มนุษย์อธิฐานต่อพระเจ้าทุกองค์ นางฟ้า นักบุญ และได้คิดค้นเครื่องมือมากมาย 
 institutions and social systems - but they continued to die in their millions from starvation, epidemics and violence.
 สถาบันการศึกษา และระบบสังคม - แต่พวกเขาหลายล้านคนก็ยังลงล้มตายเพราะความอดอยาก โรคระบาด และความรุนแรง
-Many thinkers and prophets concluded that famine, plague and war must be an integral part of God's cosmic plan or of our imperfect nature, and nothing short of the end of time would free us from them.
+Many thinkers and prophets concluded that famine, plague and war must be an integral part of God's cosmic plan 
+นักคิดและศาสดาหลายคน สรุปว่าความอดยาก โรคระบาด และสงคราม เป็นส่วนหนึ่งของแผนระดับจักรวาลของพระเจ้า
+or of our imperfect nature, and nothing short of the end of time would free us from them.
+หรือจากธรรมชาติที่ไม่สมบูรณ์ของพวกเรา และไม่มีวันที่พวกเราจะเป็นอิสระจากมันในระยะเวลาอันสั้น
+
 #Page2
 Yet at the dawn of the third millenium, humanity wakes up to an amazing realisation.
+แต่ในรุ่งเช้าของศตวรรษที่3 มนุษย์ตื่นขึ้นมาพร้อมกับความเป็นจริงที่น่าอัศจรรย์
 Most people rarely think about it, but in the last few decades we have managed to rein in famine, plague and war.
-Of course, these problems have not been completely solved, but they have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges.
+ผู้คนส่วนมากไม่ค่อยได้นึกถึงมัน แต่ในช่วงไม่กี่ทศวรรษที่ผ่านมาพวกเรามีวิธีจัดการกับความอดอยาก โรคระบาด และสงคราม
+Of course, these problems have not been completely solved, 
+และแน่นอนว่า ปัญหาเหล่านี้ยังไม่ได้ถูกแก้ไขอย่างสมบูรณ์
+but they have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges.
+แต่พวกเราก็ได้เปลี่ยนมันจากพลังของธรรมชาติที่เข้าใจได้อยากและควบคุมไม่ได้ เป็น ความท้าทายที่สามารถจัดการได้แทน
 We don't need to pray to any god or saint to rescue us from them.
+พวกเราไม่ต้องสวดอ้อนวอนให้เทพเจ้าและนักบุญ ช่วยเหลือพวกเราจากมันอีกต่อไป
 We know quite well what needs to be done in order to prevent famine, plague and war - and we usually succeed in doing it.
+เรารู้ดีว่าต้องทำอย่างไรเพื่อป้องกัน ความอดอยาก โรคระบาด และสงคราม และพวกเรามักจะประสบความสำเร็จในการทำมัน
 True, there are still notable failures; but when faced with such failures we no longer shrug our shoulders and say,'Well, that's the way things work in our imperfect world' or 'God's will be done'.
 Rather, when famine, plague or war break out of our control, we feel that somebody must have screwed up, we set up a commission of inquiry, and promise ourselves that next time we'll do better.
 And it actually works.
